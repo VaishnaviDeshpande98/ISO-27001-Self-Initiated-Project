@@ -1,3 +1,10 @@
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/VaishnaviDeshpande98/ISO-27001-Self-Initiated-Project)
+
+
+
+
+
+
 # 🛡️ ISO 27001:2022 Self-Implemented ISMS Project
 
 This repository showcases a **self-initiated implementation of ISO/IEC 27001:2022**, simulating the complete development of an Information Security Management System (ISMS) for a fictional organization. The project demonstrates hands-on knowledge in implementing ISMS controls, risk assessments, internal audits, and key information security policies.
